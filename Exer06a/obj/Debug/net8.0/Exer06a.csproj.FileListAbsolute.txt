@@ -1,0 +1,14 @@
+C:\Users\btriz\ListaExercicios\Exer06a\bin\Debug\net8.0\Exer06a.exe
+C:\Users\btriz\ListaExercicios\Exer06a\bin\Debug\net8.0\Exer06a.deps.json
+C:\Users\btriz\ListaExercicios\Exer06a\bin\Debug\net8.0\Exer06a.runtimeconfig.json
+C:\Users\btriz\ListaExercicios\Exer06a\bin\Debug\net8.0\Exer06a.dll
+C:\Users\btriz\ListaExercicios\Exer06a\bin\Debug\net8.0\Exer06a.pdb
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.AssemblyInfoInputs.cache
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.AssemblyInfo.cs
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.csproj.CoreCompileInputs.cache
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.dll
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\refint\Exer06a.dll
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.pdb
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\Exer06a.genruntimeconfig.cache
+C:\Users\btriz\ListaExercicios\Exer06a\obj\Debug\net8.0\ref\Exer06a.dll

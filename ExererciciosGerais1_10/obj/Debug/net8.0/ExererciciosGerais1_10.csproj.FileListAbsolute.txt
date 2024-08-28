@@ -1,0 +1,14 @@
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\bin\Debug\net8.0\ExererciciosGerais1_10.exe
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\bin\Debug\net8.0\ExererciciosGerais1_10.deps.json
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\bin\Debug\net8.0\ExererciciosGerais1_10.runtimeconfig.json
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\bin\Debug\net8.0\ExererciciosGerais1_10.dll
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\bin\Debug\net8.0\ExererciciosGerais1_10.pdb
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.AssemblyInfoInputs.cache
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.AssemblyInfo.cs
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.csproj.CoreCompileInputs.cache
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.dll
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\refint\ExererciciosGerais1_10.dll
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.pdb
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ExererciciosGerais1_10.genruntimeconfig.cache
+C:\Users\btriz\ListaExercicios\ExererciciosGerais1_10\obj\Debug\net8.0\ref\ExererciciosGerais1_10.dll
